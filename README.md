@@ -1,6 +1,5 @@
 # iPRP
-IP Parallel Redudancy Protocol
-This project is based on the protocol described in the following paper.
+IP Parallel Redudancy Protocol. This project is based on the protocol described in the following paper.
 
 `Popovic, Miroslav, Maaz Mohiuddin, Dan-Cristian Tomozei, and Jean-Yves Le Boudec. "iPRP—The parallel redundancy protocol for IP networks: Protocol design and operation." IEEE Transactions on Industrial Informatics 12, no. 5 (2016): 1842-1854.`
 
